@@ -1,2 +1,3 @@
-module corejava {
+module corejava
+{
 }

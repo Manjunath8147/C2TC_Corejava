@@ -1,8 +1,10 @@
 package corejava_package;
 
-public class Firstprogram {
+public class Firstprogram 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		
 
 	}
